@@ -1,0 +1,42 @@
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\bin\Debug\DragonsCurve.exe.config
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\bin\Debug\DragonsCurve.exe
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\bin\Debug\DragonsCurve.pdb
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.Properties.Resources.resources
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.GenerateResource.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.CoreCompileInputs.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.exe
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.pdb
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.ACTIVEXLib.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.LCC11.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.MsoEuro.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.MsoScreenRecorderLib.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.TASKLAUNCHLib.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.ResolveComReference.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\bin\Debug\Xceed.Words.NET.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.CopyComplete
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.Form1.resources
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csprojAssemblyReference.cache
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.SplashForm.resources
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\bin\Debug\PaintLibrary.dll
+D:\Study\4sem\Разработка приложений в визуальных средах\Курсовая\DragonsCurve\DragonsCurve\bin\Debug\PaintLibrary.pdb
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\bin\Debug\DragonsCurve.exe.config
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\bin\Debug\DragonsCurve.exe
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\bin\Debug\DragonsCurve.pdb
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\bin\Debug\PaintLibrary.dll
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\bin\Debug\Xceed.Words.NET.dll
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\bin\Debug\PaintLibrary.pdb
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csprojAssemblyReference.cache
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.ACTIVEXLib.dll
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.LCC11.dll
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.MsoEuro.dll
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.MsoScreenRecorderLib.dll
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\Interop.TASKLAUNCHLib.dll
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.ResolveComReference.cache
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.Form1.resources
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.Properties.Resources.resources
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.SplashForm.resources
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.GenerateResource.cache
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.CoreCompileInputs.cache
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.csproj.CopyComplete
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.exe
+D:\Study\4sem\ДЕЛФИ курсовая\DragonsCurve\DragonsCurve\obj\Debug\DragonsCurve.pdb
